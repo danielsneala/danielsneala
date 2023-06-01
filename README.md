@@ -7,7 +7,7 @@
 
 - Experienced in learning and using different computer software to accomplish tasks.
 
-- I do use some odd names in my college assignments programming involving manipulating data. Its just my way of showing some creativity. 
+- I do use some odd names in my college programming assignments in manipuating data. It was just my way of showing some creativity. 
 
 
 
