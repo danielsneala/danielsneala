@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Neal Daniels.
-- I'm a graduate of Brigham Young University-Idaho as of July 2019. 
+- I'm a graduate of Brigham Young University-Idaho, July 2019. 
 
-- Familiar with Python and R programming in manipulating and statistically analyzing data. 
+- Familiar with Python and R Programming in manipulating and statistically analyzing data. 
 
-- Strong technical writing skills and communicator in explaining insights obtained by data models.
+- Strong technical writing and verbal communication skills to explain insights obtained by data models.
 
-- Experience in learning and using different computer software to accomplish tasks.
+- Experienced in learning and using different computer software to accomplish tasks.
 
 - I do use some odd names in my college assignments programming involving manipulating data. Its just my way of showing some creativity. 
 
