@@ -1,9 +1,12 @@
 - 👋 Hi, I’m Neal Daniels.
-- I'm a graduate of Brigham Young University-Idaho, July 2019. 
+- 
+- Highly motivated and hard-working individual seeking position of Data Analyst. 
 
-- Familiar with Python and R Programming in manipulating and statistically analyzing data. 
+- Recently completed a Post Graduate Program in Data Science & Business Analytics, using Python to analyze data. 
 
-- Strong technical writing and verbal communication skills to explain insights obtained by data models.
+- I graduated Brigham Young University- Idaho with a degree in Applied Mathematics (July 2019), which included using R Programming to interpret data. 
+
+- Seeking to utilize these skills.
 
 - Experienced in learning and using different computer software to accomplish tasks.
 
