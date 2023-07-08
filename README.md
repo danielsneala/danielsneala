@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Neal Daniels.
-- 
 - Highly motivated and hard-working individual seeking position of Data Analyst. 
 
 - Recently completed a Post Graduate Program in Data Science & Business Analytics, using Python to analyze data. 
