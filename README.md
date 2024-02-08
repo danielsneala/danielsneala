@@ -1,11 +1,9 @@
 - 👋 Hi, I’m Neal Daniels.
-- Highly motivated and hard-working individual seeking position of Data Analyst. 
+- Highly motivated and hard-working individual seeking a data working position.  
 
 - Recently completed a Post Graduate Program in Data Science & Business Analytics, using Python to analyze data. 
 
 - I graduated Brigham Young University- Idaho with a degree in Applied Mathematics (July 2019), which included using R Programming to interpret data. 
-
-- Seeking to utilize these skills.
 
 - Experienced in learning and using different computer software to accomplish tasks.
 
